@@ -3,6 +3,7 @@ A tool for genotyping short tandem repeat.
 
 ![alt text](https://github.com/Wenfei-Xian/genoTR/blob/main/Picture1.png)
 
+# installation
 before install, you should install htslib, spoa and ssw
 
 install
