@@ -1,5 +1,5 @@
 # genoTR
-A tool for genotyping tandem repeat
+A tool for genotyping short tandem repeat.
 
 ![alt text](https://github.com/Wenfei-Xian/genoTR/blob/main/Picture1.png)
 
